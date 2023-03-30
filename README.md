@@ -2,7 +2,7 @@
 Simple Regsitration Login project using Spring Boot, Hibernate, Thymelaf, Spring Security, MySQL
 
 
-<h4><a href="">Video<a/></h4>
+<h4><a href="https://youtu.be/G0YIeg-AmAw">Video<a/></h4>
 <hr/>
 <ul><h4>What I learned:</h4>
 <li>Spring Security</li>
